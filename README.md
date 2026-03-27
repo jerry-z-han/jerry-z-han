@@ -1,4 +1,4 @@
-# Jerry Zhao Han
+# Jerry Z. Han
 
 Quantitative systems engineer with experience building scalable data pipelines, analytical models, and production-grade Python systems.
 
